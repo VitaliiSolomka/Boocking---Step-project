@@ -1,3 +1,4 @@
 echo ".idea"
 *.iml
 *.xml
+.idea/
